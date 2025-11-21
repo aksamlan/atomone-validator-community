@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| HusoNode | https://husonode.xyz/ | https://x.com/husonode | Finland | aksamlan | contact@husonode.xyz | aksamlan | 2A8EB10C8150FCEE1F0D3AF5BB04D897B385F191C7C0A78B783E80A5B5E86A0D |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
