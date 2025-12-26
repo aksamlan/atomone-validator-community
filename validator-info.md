@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-| HusoNode | https://husonode.xyz/ | https://x.com/husonode | Finland | aksamlan | contact@husonode.xyz | aksamlan | 01B848DFCD11859C383DA5470382F5A7579776169F4C0335D91E29C6DDA5BF72 |
+| HusoNode | https://husonode.xyz/ | https://x.com/husonode | Finland | aksamlan | contact@husonode.xyz | aksamlan | https://www.mintscan.io/atomone/tx/01B848DFCD11859C383DA5470382F5A7579776169F4C0335D91E29C6DDA5BF72?height=5942318 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
